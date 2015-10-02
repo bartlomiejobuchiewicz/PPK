@@ -1,0 +1,2 @@
+# PPK
+Podstawy programowania komputerów
